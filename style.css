@@ -1,0 +1,19 @@
+#Bebas-Neue-font{
+    font-family: "Bebas Neue", serif;
+    font-weight:200;
+    font-style: italic;
+  }
+  #Poppins-font{
+    font-family: "poppins", serif;
+    font-weight: 900;
+    font-style: italic;
+  }
+  #noto-nastaliq-urdu{
+    font-family: "Noto Nastaliq Urdu", serif;
+    font-style: normal;
+  }
+  #Lexend-Giga{
+    font-family: "Lexend Giga", serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+  }
